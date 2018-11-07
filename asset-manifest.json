@@ -1,0 +1,14 @@
+{
+  "main.css": "/hello-react/static/css/main.3b1d0f02.chunk.css",
+  "main.js": "/hello-react/static/js/main.dfbdbf1c.chunk.js",
+  "main.js.map": "/hello-react/static/js/main.dfbdbf1c.chunk.js.map",
+  "static/js/1.499bf8bc.chunk.js": "/hello-react/static/js/1.499bf8bc.chunk.js",
+  "static/js/1.499bf8bc.chunk.js.map": "/hello-react/static/js/1.499bf8bc.chunk.js.map",
+  "runtime~main.js": "/hello-react/static/js/runtime~main.2ac5259e.js",
+  "runtime~main.js.map": "/hello-react/static/js/runtime~main.2ac5259e.js.map",
+  "static/media/suckerberg3.png": "/hello-react/static/media/suckerberg3.665e63e7.png",
+  "static/css/main.3b1d0f02.chunk.css.map": "/hello-react/static/css/main.3b1d0f02.chunk.css.map",
+  "index.html": "/hello-react/index.html",
+  "precache-manifest.25fe68020277578e053903495fd7ff64.js": "/hello-react/precache-manifest.25fe68020277578e053903495fd7ff64.js",
+  "service-worker.js": "/hello-react/service-worker.js"
+}
